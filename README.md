@@ -7,11 +7,11 @@
 
  
 
-<p align="left"> <a href="https://twitter.com/bishwagit_das" target="blank"><img src="https://img.shields.io/twitter/follow/bishwagit_das?logo=twitter&style=for-the-badge" alt="bishwagit_das" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/tanvir-aditto-90a/" target="blank"><img src="https://img.shields.io/twitter/follow/bishwagit_das?logo=twitter&style=for-the-badge" alt="bishwagit_das" /></a> </p>
 
  
 
-- 🌱 I’m currently learning **Laravel,.NET**,React JS,Node JS
+- 🌱 I’m currently learning React JS,Node JS
 
  
 
