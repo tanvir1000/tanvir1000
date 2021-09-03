@@ -30,3 +30,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditto1000&show_icons=true&locale=en" alt="aditto1000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditto1000&" alt="aditto1000" /></p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+
+
+
