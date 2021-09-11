@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React JS,Node JS**
 
-- 👯 I’m looking to collaborate on [Hospital_Management_System](https://github.com/rahmantouhid-cse/Hospital_Management_System)
-
 - 📫 How to reach me **18-36894-1@student.aiub.edu , tanviraditto90@gmail.com**
 
 - ⚡ Fun fact **love tp play outdoor games**
